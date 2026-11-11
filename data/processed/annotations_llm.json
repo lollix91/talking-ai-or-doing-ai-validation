@@ -1,0 +1,642 @@
+{
+ "0001108827-15-000006": {
+  "ticker": "QEP.US",
+  "fiscal_year": 2014,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI context in extracts",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000040545-23-000023": {
+  "ticker": "GE.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "healthcare imaging products leveraging AI and deep learning",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001437107-17-000007": {
+  "ticker": "WBD.US",
+  "fiscal_year": 2016,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "only 'intelligent' in programming description, 'automatically convert'",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000859737-25-000072": {
+  "ticker": "HOLX.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI/deep-learning detection products (Genius AI) plus regulatory risk",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001521332-24-000011": {
+  "ticker": "APTV.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "autonomous driving technologies, JV; AI also in exec bio and cyber risk",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001564590-21-039151": {
+  "ticker": "MSFT.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "AI central to strategy, products, R&D groups",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000886982-24-000006": {
+  "ticker": "GS.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI discussed as risk factor and regulatory uncertainty",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000008670-23-000030": {
+  "ticker": "ADP.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "increasingly leveraging AI/ML in solutions; AI ethics committee",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000950170-22-001481": {
+  "ticker": "TRIP.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "investment in technology e.g. machine learning; competitors' AI",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001613103-24-000072": {
+  "ticker": "MDT.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI-powered medical devices and surgical solutions",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001628280-19-000598": {
+  "ticker": "LEN.US",
+  "fiscal_year": 2018,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "home automation; 'predictive analytics' only in description of a venture investee",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001628280-25-038077": {
+  "ticker": "FOX.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI regulation, generative AI competition and cyber risk",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000936340-23-000073": {
+  "ticker": "DTV.US",
+  "fiscal_year": 2022,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "only analytics skills and automatic enrollment",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000100493-25-000095": {
+  "ticker": "TSN.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI as cyber risk; 'AI' also = avian influenza (false positive)",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001075531-25-000010": {
+  "ticker": "BKNG.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "integrating generative AI into offerings and operations",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001193125-18-209771": {
+  "ticker": "ADNT.US",
+  "fiscal_year": 2017,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI context in extracts",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001136893-23-000028": {
+  "ticker": "FIS.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI modeling for fraud detection; investments in ML/AI",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001193125-17-214833": {
+  "ticker": "ORCL.US",
+  "fiscal_year": 2017,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "predictive analytics and automation in software products, no explicit AI",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000950170-25-027778": {
+  "ticker": "TKO.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI-generated fake content and cyber risk",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001193125-18-249117": {
+  "ticker": "NWSA.US",
+  "fiscal_year": 2018,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "search engine algorithms only",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001390777-17-000065": {
+  "ticker": "BNY.US",
+  "fiscal_year": 2016,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI context in extracts",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000766421-22-000009": {
+  "ticker": "ALK.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "adopted Flyways AI (AI/ML) to optimise flight paths",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001524472-18-000006": {
+  "ticker": "XYL.US",
+  "fiscal_year": 2017,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "automation, smart metering, analytics; no AI",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000764478-21-000024": {
+  "ticker": "BBY.US",
+  "fiscal_year": 2021,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "AI only in a director biography (IBM Watson); not about the firm",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000092380-24-000027": {
+  "ticker": "LUV.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "pursuing generative AI for customer service; AI-based marketing",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000815556-25-000065": {
+  "ticker": "FAST.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI only as threat-actor tool in cybersecurity disclosure",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000720005-21-000106": {
+  "ticker": "RJF.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI in privacy/data risk discussion",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000354950-19-000010": {
+  "ticker": "HD.US",
+  "fiscal_year": 2019,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "expanding use of machine learning and data science in e-commerce",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001024305-24-000035": {
+  "ticker": "COTY.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI-powered consumer tools; implementing ML and generative AI internally",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000906163-25-000011": {
+  "ticker": "NVR.US",
+  "fiscal_year": 2024,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI context in extracts",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001596783-24-000087": {
+  "ticker": "CTLT.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI-based platforms discussed as new risks (partners, regulation)",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000310764-24-000024": {
+  "ticker": "SYK.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "borderline: competitors' AI as risk; own use of AI in cyber defence",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001564590-20-005038": {
+  "ticker": "AGN.US",
+  "fiscal_year": 2019,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI context",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001564590-20-007850": {
+  "ticker": "DAY.US",
+  "fiscal_year": 2019,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "workflow automation only",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001628280-24-002371": {
+  "ticker": "LEN.US",
+  "fiscal_year": 2023,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "home automation; predictive analytics in investee description",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001024305-22-000053": {
+  "ticker": "COTY.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI-powered consumer advice tools",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000021344-20-000006": {
+  "ticker": "KO.US",
+  "fiscal_year": 2019,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "borderline: digitising operations through AI, framed within a risk factor",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001535527-21-000007": {
+  "ticker": "CRWD.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "AI/ML central to the security platform",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001193125-22-050913": {
+  "ticker": "PLTR.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "AI integrated in platforms, significant element of the business",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001628280-25-053993": {
+  "ticker": "AMTM.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI/ML as growth area; AI-driven recruiting tools",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001564590-20-007403": {
+  "ticker": "YUMC.US",
+  "fiscal_year": 2019,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI for personalisation, delivery routing, sales forecasting",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000104169-15-000011": {
+  "ticker": "WMT.US",
+  "fiscal_year": 2015,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI context",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001086222-25-000028": {
+  "ticker": "AKAM.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI-powered security products and AI inference infrastructure",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001628280-21-003314": {
+  "ticker": "ARES.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "competitors' AI platforms as risk; 'Ares AI Holdings' is an entity name",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001558370-21-015228": {
+  "ticker": "TEL.US",
+  "fiscal_year": 2021,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "factory automation and robotics products, no AI",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001770450-24-000012": {
+  "ticker": "XRX.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "investments in AI, AI-powered image quality",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001051470-25-000089": {
+  "ticker": "CCI.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI only as an external driver of bandwidth demand",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001609711-25-000023": {
+  "ticker": "GDDY.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "generative AI in products and personalisation",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001564590-16-024079": {
+  "ticker": "HAR.US",
+  "fiscal_year": 2016,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "speech recognition and enterprise automation without explicit AI",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000764180-20-000055": {
+  "ticker": "MO.US",
+  "fiscal_year": 2019,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI context",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000004962-25-000016": {
+  "ticker": "AXP.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI/ML discussed as competitive, regulatory and model risk",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000030625-22-000039": {
+  "ticker": "FLS.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "investing in solutions leveraging big data and AI",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000072331-21-000079": {
+  "ticker": "NDSN.US",
+  "fiscal_year": 2021,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "proprietary algorithms, automated systems; no AI",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001593034-15-000005": {
+  "ticker": "ENDP.US",
+  "fiscal_year": 2014,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI context",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000040545-24-000027": {
+  "ticker": "GE.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "own and threat actors' AI use only within risk factors",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000833444-20-000048": {
+  "ticker": "JCI.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI-powered building service solutions",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000016732-24-000130": {
+  "ticker": "CPB.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI in IP, cyber and competitive risk factors",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001564590-20-006422": {
+  "ticker": "DDOG.US",
+  "fiscal_year": 2019,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "machine learning capabilities embedded in the monitoring platform",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001099800-23-000005": {
+  "ticker": "EW.US",
+  "fiscal_year": 2022,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "predictive clinical algorithms without explicit AI",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000732712-25-000006": {
+  "ticker": "VZ.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "using AI in network deployment and customer support",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000356028-17-000047": {
+  "ticker": "CA_old.US",
+  "fiscal_year": 2017,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "operations intelligence products using machine learning",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001681459-25-000036": {
+  "ticker": "FTI.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "borderline: developing AI/ML technologies, stated in risk factor",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000950170-23-002456": {
+  "ticker": "AJG.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI in competitive and talent risk",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000040987-25-000026": {
+  "ticker": "GPC.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "competitors' AI and cyber risk; 'Motion AI' is a brand name",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000804328-24-000075": {
+  "ticker": "QCOM.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "on-device AI as foundational technology",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000879169-24-000045": {
+  "ticker": "INCY.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI software as reputational/liability risk",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000814547-16-000035": {
+  "ticker": "FICO.US",
+  "fiscal_year": 2016,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "fraud detection product uses AI technology",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001558370-21-000737": {
+  "ticker": "MMM.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "acquisition of conversational AI-powered healthcare systems",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001628280-18-001756": {
+  "ticker": "MAR.US",
+  "fiscal_year": 2017,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI context",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000950170-22-001962": {
+  "ticker": "WU.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI/ML used in employee engagement system",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000896878-17-000130": {
+  "ticker": "INTU.US",
+  "fiscal_year": 2017,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "strategy and open platform built to embrace AI/ML",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000062709-23-000014": {
+  "ticker": "MRSH.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI in cyber, insurtech competition and regulatory risk",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000320193-18-000145": {
+  "ticker": "AAPL.US",
+  "fiscal_year": 2018,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "'intelligent assistant' without explicit AI",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001108524-18-000011": {
+  "ticker": "CRM.US",
+  "fiscal_year": 2018,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "AI in core mission; heavy investment in Einstein AI",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001489393-25-000008": {
+  "ticker": "LYB.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI regulatory risk and responsible-use policy; 'AI International Chemicals' is an entity name",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001628280-22-004289": {
+  "ticker": "ARES.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "competitors' AI platforms as risk; entity name 'Ares AI Holdings'",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000912242-21-000004": {
+  "ticker": "MAC.US",
+  "fiscal_year": 2020,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI context",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0001193125-22-055674": {
+  "ticker": "GNW.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI in medical diagnostics as external trend affecting underwriting",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000080424-16-000212": {
+  "ticker": "PG.US",
+  "fiscal_year": 2016,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI context",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ },
+ "0000354908-19-000018": {
+  "ticker": "FLIR.US",
+  "fiscal_year": 2018,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "machine vision, detection algorithms, predictive maintenance without explicit AI",
+  "annotator": "llm:claude-opus-5.5 (Anthropic)"
+ }
+}

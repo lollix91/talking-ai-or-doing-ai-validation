@@ -1,0 +1,282 @@
+{
+ "0000950170-22-001481": {
+  "ticker": "TRIP.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001628280-19-000598": {
+  "ticker": "LEN.US",
+  "fiscal_year": 2018,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000764478-21-000024": {
+  "ticker": "BBY.US",
+  "fiscal_year": 2021,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001628280-24-002371": {
+  "ticker": "LEN.US",
+  "fiscal_year": 2023,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001770450-24-000012": {
+  "ticker": "XRX.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001051470-25-000089": {
+  "ticker": "CCI.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001564590-16-024079": {
+  "ticker": "HAR.US",
+  "fiscal_year": 2016,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001099800-23-000005": {
+  "ticker": "EW.US",
+  "fiscal_year": 2022,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000950170-22-001962": {
+  "ticker": "WU.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000040545-23-000023": {
+  "ticker": "GE.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000859737-25-000072": {
+  "ticker": "HOLX.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001521332-24-000011": {
+  "ticker": "APTV.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000886982-24-000006": {
+  "ticker": "GS.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000008670-23-000030": {
+  "ticker": "ADP.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001613103-24-000072": {
+  "ticker": "MDT.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001628280-25-038077": {
+  "ticker": "FOX.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001075531-25-000010": {
+  "ticker": "BKNG.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001136893-23-000028": {
+  "ticker": "FIS.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000092380-24-000027": {
+  "ticker": "LUV.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001024305-24-000035": {
+  "ticker": "COTY.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001596783-24-000087": {
+  "ticker": "CTLT.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000310764-24-000024": {
+  "ticker": "SYK.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001193125-22-050913": {
+  "ticker": "PLTR.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001628280-25-053993": {
+  "ticker": "AMTM.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001086222-25-000028": {
+  "ticker": "AKAM.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001609711-25-000023": {
+  "ticker": "GDDY.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000040545-24-000027": {
+  "ticker": "GE.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000732712-25-000006": {
+  "ticker": "VZ.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000356028-17-000047": {
+  "ticker": "CA_old.US",
+  "fiscal_year": 2017,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000950170-23-002456": {
+  "ticker": "AJG.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000040987-25-000026": {
+  "ticker": "GPC.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0000814547-16-000035": {
+  "ticker": "FICO.US",
+  "fiscal_year": 2016,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001558370-21-000737": {
+  "ticker": "MMM.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001108524-18-000011": {
+  "ticker": "CRM.US",
+  "fiscal_year": 2018,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "",
+  "annotator": "adjudicated"
+ },
+ "0001489393-25-000008": {
+  "ticker": "LYB.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "",
+  "annotator": "adjudicated"
+ }
+}

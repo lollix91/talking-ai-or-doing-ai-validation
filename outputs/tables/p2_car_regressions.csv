@@ -1,0 +1,11 @@
+outcome,sample,N,regressor,beta,se,p_value,regressor_2,beta_2,se_2,p_value_2
+car_m1_p1,all,5792,ai_score_log,-0.05538,0.16317,0.73429,,,,
+car_m1_p1,all_fixed_dictionary,5792,ai_score_fixed_log,-0.06737,0.1704,0.69259,,,,
+car_m1_p1,all_ops_vs_risk,5488,ai_ops_log,-0.02572,0.11813,0.82763,ai_risk_log,0.06867,0.12504,0.58291
+car_m1_p1,pre_chatgpt_FY2015_2021,4024,ai_score_log,0.19895,0.23537,0.39797,,,,
+car_m1_p1,post_chatgpt_FY2022_2024,1768,ai_score_log,-0.25509,0.25196,0.31135,,,,
+car_0_p5,all,5792,ai_score_log,-0.30012,0.18636,0.10731,,,,
+car_0_p5,all_fixed_dictionary,5792,ai_score_fixed_log,-0.33248,0.1905,0.08093,,,,
+car_0_p5,all_ops_vs_risk,5488,ai_ops_log,-0.15761,0.13677,0.24916,ai_risk_log,0.06502,0.14645,0.65704
+car_0_p5,pre_chatgpt_FY2015_2021,4024,ai_score_log,-0.15185,0.29804,0.61039,,,,
+car_0_p5,post_chatgpt_FY2022_2024,1768,ai_score_log,-0.38412,0.27146,0.15706,,,,

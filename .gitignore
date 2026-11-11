@@ -1,0 +1,9 @@
+.env
+data/raw/
+data/processed/*.parquet
+!data/processed/edgar_10k_index.parquet
+!data/processed/ai_adoption_scores.parquet
+!data/processed/ai_scores_v1.parquet
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,13 @@
+item,value
+10-K documents scored,7414
+  of which 10-K/A amendments (excluded),372
+  median words: original 10-K,65656
+  median words: 10-K/A,18551
+Original 10-Ks with duplicate firm-FY (fiscal-year change),7
+Firm-FY 10-Ks after selection,7035
+Matched firm-years,6091
+  |report_date - period_end| <= 10 days,6046
+  |report_date - period_end| 11-45 days,12
+  |report_date - period_end| > 45 days (flag),33
+Unmatched firm-years in window,306
+  ticker without any 10-K on EDGAR,84

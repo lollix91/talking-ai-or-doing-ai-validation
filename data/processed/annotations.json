@@ -1,0 +1,1186 @@
+{
+ "0000320193-18-000145": {
+  "ticker": "AAPL.US",
+  "fiscal_year": 2018,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI keywords",
+  "annotator": "human"
+ },
+ "0001193125-18-209771": {
+  "ticker": "ADNT.US",
+  "fiscal_year": 2017,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no AI keywords",
+  "annotator": "human"
+ },
+ "0000008670-23-000030": {
+  "ticker": "ADP.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI powers DataCloud/Skills Graph, LLM-based products; feature-level not core",
+  "annotator": "human"
+ },
+ "0001564590-20-005038": {
+  "ticker": "AGN.US",
+  "fiscal_year": 2019,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "XBRL junk, no AI content",
+  "annotator": "human"
+ },
+ "0000950170-23-002456": {
+  "ticker": "AJG.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI only as competitive risk/disruption + talent competition",
+  "annotator": "human"
+ },
+ "0001086222-25-000028": {
+  "ticker": "AKAM.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI-powered security products, GPU inference, generative AI tools",
+  "annotator": "human"
+ },
+ "0000766421-22-000009": {
+  "ticker": "ALK.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "adopted Flyways AI for flight path optimization",
+  "annotator": "human"
+ },
+ "0001628280-25-053993": {
+  "ticker": "AMTM.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI/ML as capability area, autonomous systems R&D + some risk boilerplate",
+  "annotator": "human"
+ },
+ "0001558370-25-000714": {
+  "ticker": "APH.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI demand drives datacom sales and capex materially",
+  "annotator": "human"
+ },
+ "0001521332-24-000011": {
+  "ticker": "APTV.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "autonomous driving products, deep-learning perception investment",
+  "annotator": "human"
+ },
+ "0001628280-21-003314": {
+  "ticker": "ARES.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI only as competitor threat",
+  "annotator": "human"
+ },
+ "0001628280-22-004289": {
+  "ticker": "ARES.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "same text, competitor threat framing",
+  "annotator": "human"
+ },
+ "0001673985-25-000011": {
+  "ticker": "ASIX.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI/ML in own cybersecurity program + process automation",
+  "annotator": "human"
+ },
+ "0000008868-17-000009": {
+  "ticker": "AVP.US",
+  "fiscal_year": 2016,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (Avon 2016)",
+  "annotator": "human"
+ },
+ "0001069183-24-000006": {
+  "ticker": "AXON.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI in products (speech recognition, drone autonomy), genAI tools for workforce",
+  "annotator": "human"
+ },
+ "0000004962-25-000016": {
+  "ticker": "AXP.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "all risk/regulatory framing (competitors, cyber, EU AI Act); own use only acknowledged inside risk factor",
+  "annotator": "human"
+ },
+ "0001144215-24-000085": {
+  "ticker": "AYI.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "begun incorporating AI into product offerings and operations",
+  "annotator": "human"
+ },
+ "0001628280-25-007201": {
+  "ticker": "BAX.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "uses AI/ML in operations, plans product integration",
+  "annotator": "human"
+ },
+ "0000764478-21-000024": {
+  "ticker": "BBY.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "incidental: AI only in director bio (IBM Watson)",
+  "annotator": "human"
+ },
+ "0000764478-22-000008": {
+  "ticker": "BBY.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI platform for workforce planning; CTO strategy uses AI",
+  "annotator": "human"
+ },
+ "0000010795-19-000044": {
+  "ticker": "BDX.US",
+  "fiscal_year": 2019,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "only generic 'automation' (lab/pharmacy), no AI",
+  "annotator": "human"
+ },
+ "0001685040-24-000007": {
+  "ticker": "BHF.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI regulation + cyber risk framing only",
+  "annotator": "human"
+ },
+ "0001075531-25-000010": {
+  "ticker": "BKNG.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "GenAI integrated into offerings + ops efficiencies",
+  "annotator": "human"
+ },
+ "0001701605-20-000019": {
+  "ticker": "BKR.US",
+  "fiscal_year": 2019,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "C3.ai partnership delivering AI to customers",
+  "annotator": "human"
+ },
+ "0001701605-22-000050": {
+  "ticker": "BKR.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "C3.ai + invests AI/ML, computer vision, edge",
+  "annotator": "human"
+ },
+ "0001390777-17-000065": {
+  "ticker": "BNY.US",
+  "fiscal_year": 2016,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (BNY 2016)",
+  "annotator": "human"
+ },
+ "0000908255-18-000056": {
+  "ticker": "BWA.US",
+  "fiscal_year": 2017,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (BorgWarner 10-K/A)",
+  "annotator": "human"
+ },
+ "0001783180-23-000012": {
+  "ticker": "CARR.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI/ML in products via AWS partnership, cold-chain analytics",
+  "annotator": "human"
+ },
+ "0000356028-17-000047": {
+  "ticker": "CA_old.US",
+  "fiscal_year": 2017,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "ML-based ops intelligence products for mainframe",
+  "annotator": "human"
+ },
+ "0001051470-25-000089": {
+  "ticker": "CCI.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI only as bandwidth demand driver (market context)",
+  "annotator": "human"
+ },
+ "0000815097-16-000030": {
+  "ticker": "CCL.US",
+  "fiscal_year": 2015,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (Carnival 2015)",
+  "annotator": "human"
+ },
+ "0001402057-21-000022": {
+  "ticker": "CDW.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI listed among innovation areas only",
+  "annotator": "human"
+ },
+ "0001071739-16-000192": {
+  "ticker": "CNC.US",
+  "fiscal_year": 2015,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "predictive modeling/algorithms used in medical management ops",
+  "annotator": "human"
+ },
+ "0001071739-21-000039": {
+  "ticker": "CNC.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "Apixio AI subsidiary for chart review + predictive models",
+  "annotator": "human"
+ },
+ "0001130310-15-000008": {
+  "ticker": "CNP.US",
+  "fiscal_year": 2014,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "only grid automation, no AI",
+  "annotator": "human"
+ },
+ "0001679788-25-000022": {
+  "ticker": "COIN.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI as regulatory/disruption risk; glossary algorithm hits",
+  "annotator": "human"
+ },
+ "0001024305-22-000053": {
+  "ticker": "COTY.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI-powered consumer advice tools",
+  "annotator": "human"
+ },
+ "0001024305-24-000035": {
+  "ticker": "COTY.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "implements ML/genAI in product dev + internal tools",
+  "annotator": "human"
+ },
+ "0000016732-24-000130": {
+  "ticker": "CPB.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI only in risk framing (IP, cyber, future relevance)",
+  "annotator": "human"
+ },
+ "0001108524-18-000011": {
+  "ticker": "CRM.US",
+  "fiscal_year": 2018,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "Einstein AI embedded in platform; AI as offering category",
+  "annotator": "human"
+ },
+ "0001535527-21-000007": {
+  "ticker": "CRWD.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "AI is founding principle; Threat Graph + ML agents central to product",
+  "annotator": "human"
+ },
+ "0001596783-24-000087": {
+  "ticker": "CTLT.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "employee use of AI chatbots/genAI with governance policies",
+  "annotator": "human"
+ },
+ "0001564590-20-007850": {
+  "ticker": "DAY.US",
+  "fiscal_year": 2019,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (Ceridian 2019)",
+  "annotator": "human"
+ },
+ "0001564590-20-006422": {
+  "ticker": "DDOG.US",
+  "fiscal_year": 2019,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "ML-based anomaly detection/predictive features + AI acquisition",
+  "annotator": "human"
+ },
+ "0001393612-25-000012": {
+  "ticker": "DFS.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "incidental: AI only in director bio skills",
+  "annotator": "human"
+ },
+ "0000313616-23-000087": {
+  "ticker": "DHR.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI only as generic tech-trend context; rest is plain automation",
+  "annotator": "human"
+ },
+ "0000935703-16-000127": {
+  "ticker": "DLTR.US",
+  "fiscal_year": 2016,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (Dollar Tree 2016)",
+  "annotator": "human"
+ },
+ "0000936340-23-000073": {
+  "ticker": "DTV.US",
+  "fiscal_year": 2022,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "XBRL junk, no content",
+  "annotator": "human"
+ },
+ "0001593034-15-000005": {
+  "ticker": "ENDP.US",
+  "fiscal_year": 2014,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (Endo 2014)",
+  "annotator": "human"
+ },
+ "0001463101-24-000024": {
+  "ticker": "ENPH.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI-based solar/consumption forecasting in IQ products",
+  "annotator": "human"
+ },
+ "0000072741-25-000007": {
+  "ticker": "ES.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI Executive Working Committee for Secure-by-Design AI",
+  "annotator": "human"
+ },
+ "0001099800-23-000005": {
+  "ticker": "EW.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "Acumen predictive algorithms in HemoSphere products",
+  "annotator": "human"
+ },
+ "0000815556-25-000065": {
+  "ticker": "FAST.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "only AI-by-threat-actors risk; ASRS is plain automation",
+  "annotator": "human"
+ },
+ "0001048695-22-000033": {
+  "ticker": "FFIV.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "ML-driven security, AI bot mitigation products",
+  "annotator": "human"
+ },
+ "0000814547-16-000035": {
+  "ticker": "FICO.US",
+  "fiscal_year": 2016,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "AI central: Falcon fraud detection, predictive analytics is the product",
+  "annotator": "human"
+ },
+ "0001136893-23-000028": {
+  "ticker": "FIS.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI modeling for fraud + ML/AI investments",
+  "annotator": "human"
+ },
+ "0000354908-19-000018": {
+  "ticker": "FLIR.US",
+  "fiscal_year": 2018,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "machine vision/'predictive maintenance' as use cases, no AI claimed",
+  "annotator": "human"
+ },
+ "0000030625-21-000034": {
+  "ticker": "FLS.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI/big-data diagnostics in R&D investment focus",
+  "annotator": "human"
+ },
+ "0000030625-22-000039": {
+  "ticker": "FLS.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "same AI diagnostics investment text",
+  "annotator": "human"
+ },
+ "0001628280-25-038077": {
+  "ticker": "FOX.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "genAI as competition/piracy/IP risk",
+  "annotator": "human"
+ },
+ "0001681459-25-000036": {
+  "ticker": "FTI.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "subsea robotics, supervised autonomy ROVs, predictive analytics CyberFrac, digital twin",
+  "annotator": "human"
+ },
+ "0001609711-25-000023": {
+  "ticker": "GDDY.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI only in forward-looking risk list re deploying new tech",
+  "annotator": "human"
+ },
+ "0000040545-23-000023": {
+  "ticker": "GE.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AIR Recon DL deep learning in MR imaging; AI workflow",
+  "annotator": "human"
+ },
+ "0000040545-24-000027": {
+  "ticker": "GE.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "admits own use of AI/ML 'expected to increase' + grid automation",
+  "annotator": "human"
+ },
+ "0000849399-23-000014": {
+  "ticker": "GEN.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "AI-based automation central to cyber-safety product differentiation",
+  "annotator": "human"
+ },
+ "0001193125-22-055674": {
+  "ticker": "GNW.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI regulation + clinician-diagnostic market context",
+  "annotator": "human"
+ },
+ "0000040987-20-000010": {
+  "ticker": "GPC.US",
+  "fiscal_year": 2019,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "predictive analytics in inventory system; Motion AI automation line",
+  "annotator": "human"
+ },
+ "0000040987-25-000026": {
+  "ticker": "GPC.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "same: predictive analytics ops + Motion AI supplier line",
+  "annotator": "human"
+ },
+ "0000886982-24-000006": {
+  "ticker": "GS.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "'may develop/incorporate AI' risk framing; AI oversight committee",
+  "annotator": "human"
+ },
+ "0001564590-16-024079": {
+  "ticker": "HAR.US",
+  "fiscal_year": 2016,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "speech recognition/HMI in connected-car products",
+  "annotator": "human"
+ },
+ "0000354950-19-000010": {
+  "ticker": "HD.US",
+  "fiscal_year": 2019,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "ML/data science in e-commerce personalization",
+  "annotator": "human"
+ },
+ "0000859737-25-000072": {
+  "ticker": "HOLX.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "multiple FDA-cleared AI products (Genius AI, 3DQuorum, AI Detection) as key differentiators",
+  "annotator": "human"
+ },
+ "0000879169-24-000045": {
+  "ticker": "INCY.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI software increasing in industry — risk framing only",
+  "annotator": "human"
+ },
+ "0000050863-15-000015": {
+  "ticker": "INTC.US",
+  "fiscal_year": 2014,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "only robotics/wearables, no AI (Intel 2014)",
+  "annotator": "human"
+ },
+ "0000896878-17-000130": {
+  "ticker": "INTU.US",
+  "fiscal_year": 2017,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "TurboTax ML interview in production; AI/ML platform strategy",
+  "annotator": "human"
+ },
+ "0001466258-25-000039": {
+  "ticker": "IR.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "acquired AI building-optimization platform; AI in control products",
+  "annotator": "human"
+ },
+ "0000914208-25-000114": {
+  "ticker": "IVZ.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "'our use of AI' only inside risk factors + glossary",
+  "annotator": "human"
+ },
+ "0000833444-20-000048": {
+  "ticker": "JCI.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI-powered services: remote diagnostics, predictive maintenance, digital twin",
+  "annotator": "human"
+ },
+ "0000319201-23-000031": {
+  "ticker": "KLAC.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI as demand driver + cyberattack vector only",
+  "annotator": "human"
+ },
+ "0000021344-20-000006": {
+  "ticker": "KO.US",
+  "fiscal_year": 2019,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI/automation/robotics for ops efficiency stated as use",
+  "annotator": "human"
+ },
+ "0001628280-19-000598": {
+  "ticker": "LEN.US",
+  "fiscal_year": 2018,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "predictive analytics only via investee cos; home automation plain",
+  "annotator": "human"
+ },
+ "0001628280-24-002371": {
+  "ticker": "LEN.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "same: AI terms only inside investee descriptions",
+  "annotator": "human"
+ },
+ "0000936468-22-000008": {
+  "ticker": "LMT.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI as competitive tech-trend area only",
+  "annotator": "human"
+ },
+ "0000092380-24-000027": {
+  "ticker": "LUV.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "actively pursuing genAI for customer service + flight-planning algorithms",
+  "annotator": "human"
+ },
+ "0001489393-25-000008": {
+  "ticker": "LYB.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "'Generate Responsibly' genAI internal program + governance",
+  "annotator": "human"
+ },
+ "0000912242-21-000004": {
+  "ticker": "MAC.US",
+  "fiscal_year": 2020,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "XBRL junk",
+  "annotator": "human"
+ },
+ "0001628280-18-001756": {
+  "ticker": "MAR.US",
+  "fiscal_year": 2017,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (Marriott 2017)",
+  "annotator": "human"
+ },
+ "0001613103-24-000072": {
+  "ticker": "MDT.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "AccuRhythm AI, UNiD spine AI, AiBLE — AI in multiple named products",
+  "annotator": "human"
+ },
+ "0001326801-21-000014": {
+  "ticker": "META.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "ML for metrics, facial recognition, AI content moderation",
+  "annotator": "human"
+ },
+ "0001558370-21-000737": {
+  "ticker": "MMM.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI as disruptive-tech risk only",
+  "annotator": "human"
+ },
+ "0000764180-20-000055": {
+  "ticker": "MO.US",
+  "fiscal_year": 2019,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "XBRL junk",
+  "annotator": "human"
+ },
+ "0001179929-24-000033": {
+  "ticker": "MOH.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI admin tools investments + predictive analytics pop-mgmt",
+  "annotator": "human"
+ },
+ "0000062709-23-000014": {
+  "ticker": "MRSH.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI as attack vector/competitor/regulatory only",
+  "annotator": "human"
+ },
+ "0001564590-20-034944": {
+  "ticker": "MSFT.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "Azure ML, AI-infused cloud strategy — AI is the platform",
+  "annotator": "human"
+ },
+ "0001564590-21-039151": {
+  "ticker": "MSFT.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "same + Nuance AI acquisition 9.7B",
+  "annotator": "human"
+ },
+ "0001120193-23-000014": {
+  "ticker": "NDAQ.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "ML/AI in market tech, surveillance, Career Hub",
+  "annotator": "human"
+ },
+ "0000072331-21-000079": {
+  "ticker": "NDSN.US",
+  "fiscal_year": 2021,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "only 'proprietary algorithms' in sensors, no AI",
+  "annotator": "human"
+ },
+ "0001164727-22-000007": {
+  "ticker": "NEM.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "autonomous mining systems + autonomous haulage fleet",
+  "annotator": "human"
+ },
+ "0000950170-24-015145": {
+  "ticker": "NOV.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "ML closed-loop drilling, Max edge analytics, robotics",
+  "annotator": "human"
+ },
+ "0001045810-20-000010": {
+  "ticker": "NVDA.US",
+  "fiscal_year": 2020,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "NVIDIA — AI is the business",
+  "annotator": "human"
+ },
+ "0001045810-23-000017": {
+  "ticker": "NVDA.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "NVIDIA — AI is the business",
+  "annotator": "human"
+ },
+ "0000906163-25-000011": {
+  "ticker": "NVR.US",
+  "fiscal_year": 2024,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "XBRL junk (NVR)",
+  "annotator": "human"
+ },
+ "0001564708-25-000419": {
+  "ticker": "NWS.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "genAI as IP threat/platform; licensing mention incidental",
+  "annotator": "human"
+ },
+ "0001193125-18-249117": {
+  "ticker": "NWSA.US",
+  "fiscal_year": 2018,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "generic 'algorithms' (search/social), no AI",
+  "annotator": "human"
+ },
+ "0001413447-22-000008": {
+  "ticker": "NXPI.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "NPU-accelerated ML at edge in i.MX processors, ADAS",
+  "annotator": "human"
+ },
+ "0001193125-17-214833": {
+  "ticker": "ORCL.US",
+  "fiscal_year": 2017,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "only generic business automation",
+  "annotator": "human"
+ },
+ "0001564590-19-023119": {
+  "ticker": "ORCL.US",
+  "fiscal_year": 2019,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "Oracle Autonomous Database (self-tuning ML product)",
+  "annotator": "human"
+ },
+ "0000077476-22-000010": {
+  "ticker": "PEP.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "AI+data analytics investment for consumer insights",
+  "annotator": "human"
+ },
+ "0000080424-16-000212": {
+  "ticker": "PG.US",
+  "fiscal_year": 2016,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (P&G 2016)",
+  "annotator": "human"
+ },
+ "0000080424-20-000059": {
+  "ticker": "PG.US",
+  "fiscal_year": 2020,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "XBRL junk (P&G 10-K/A)",
+  "annotator": "human"
+ },
+ "0001193125-22-050913": {
+  "ticker": "PLTR.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "'AI is a significant element of our business' — Palantir platforms",
+  "annotator": "human"
+ },
+ "0000079879-25-000034": {
+  "ticker": "PPG.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI only as cyberattack tech",
+  "annotator": "human"
+ },
+ "0000804328-24-000075": {
+  "ticker": "QCOM.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "core_to_business",
+  "notes": "on-device AI/genAI is a product pillar; NPU R&D",
+  "annotator": "human"
+ },
+ "0001108827-15-000006": {
+  "ticker": "QEP.US",
+  "fiscal_year": 2014,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (QEP 2014)",
+  "annotator": "human"
+ },
+ "0001451505-23-000029": {
+  "ticker": "RIG.US",
+  "fiscal_year": 2022,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "Nauticus marine robots investment; FP: 'Executive LLM' degree title",
+  "annotator": "human"
+ },
+ "0000720005-21-000106": {
+  "ticker": "RJF.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI as privacy/data-risk context",
+  "annotator": "human"
+ },
+ "0001024478-15-000028": {
+  "ticker": "ROK.US",
+  "fiscal_year": 2015,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "industrial automation only (Rockwell 2015)",
+  "annotator": "human"
+ },
+ "0001024478-20-000038": {
+  "ticker": "ROK.US",
+  "fiscal_year": 2020,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "industrial automation only (Rockwell 2020)",
+  "annotator": "human"
+ },
+ "0000745732-24-000009": {
+  "ticker": "ROST.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI as cyber-risk advance only",
+  "annotator": "human"
+ },
+ "0000101829-16-000050": {
+  "ticker": "RTX.US",
+  "fiscal_year": 2015,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "'automation' in compliance context only",
+  "annotator": "human"
+ },
+ "0000754737-15-000019": {
+  "ticker": "SCG.US",
+  "fiscal_year": 2014,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (SCANA 2014)",
+  "annotator": "human"
+ },
+ "0001628280-22-003294": {
+  "ticker": "SEE.US",
+  "fiscal_year": 2021,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "packaging automation only, no AI",
+  "annotator": "human"
+ },
+ "0000089800-25-000030": {
+  "ticker": "SHW.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "genAI as IP-theft risk",
+  "annotator": "human"
+ },
+ "0000092122-25-000018": {
+  "ticker": "SO.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI as attack tech + datacenter demand driver",
+  "annotator": "human"
+ },
+ "0000086521-19-000014": {
+  "ticker": "SRE.US",
+  "fiscal_year": 2018,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "'decision tree'=regulatory framework FP; smart meters, grid automation",
+  "annotator": "human"
+ },
+ "0000310764-24-000024": {
+  "ticker": "SYK.US",
+  "fiscal_year": 2023,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "uses AI for threat monitoring; AI/ML in robotics strategy",
+  "annotator": "human"
+ },
+ "0001260221-25-000081": {
+  "ticker": "TDG.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI intensifying privacy/cyber risk only",
+  "annotator": "human"
+ },
+ "0001094285-25-000053": {
+  "ticker": "TDY.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "ML/AI incorporated in products; autonomous underwater vehicles",
+  "annotator": "human"
+ },
+ "0001558370-20-013511": {
+  "ticker": "TEL.US",
+  "fiscal_year": 2020,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "factory automation only",
+  "annotator": "human"
+ },
+ "0001558370-21-015228": {
+  "ticker": "TEL.US",
+  "fiscal_year": 2021,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "factory/warehouse automation only",
+  "annotator": "human"
+ },
+ "0001193125-18-066579": {
+  "ticker": "TER.US",
+  "fiscal_year": 2017,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "test/industrial automation segment only",
+  "annotator": "human"
+ },
+ "0000950170-25-027778": {
+  "ticker": "TKO.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI in attack tools/piracy risk",
+  "annotator": "human"
+ },
+ "0001116132-17-000011": {
+  "ticker": "TPR.US",
+  "fiscal_year": 2017,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (Coach 2017)",
+  "annotator": "human"
+ },
+ "0000950170-22-001481": {
+  "ticker": "TRIP.US",
+  "fiscal_year": 2021,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "generic search algorithms only",
+  "annotator": "human"
+ },
+ "0001113169-23-000007": {
+  "ticker": "TROW.US",
+  "fiscal_year": 2022,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "XBRL junk (T Rowe)",
+  "annotator": "human"
+ },
+ "0000100493-25-000095": {
+  "ticker": "TSN.US",
+  "fiscal_year": 2025,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "AI as new-tech cyber risk",
+  "annotator": "human"
+ },
+ "0000100885-19-000060": {
+  "ticker": "UNP.US",
+  "fiscal_year": 2018,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (UNP 2018)",
+  "annotator": "human"
+ },
+ "0001035002-20-000007": {
+  "ticker": "VLO.US",
+  "fiscal_year": 2019,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "XBRL junk (Valero)",
+  "annotator": "human"
+ },
+ "0000732712-23-000012": {
+  "ticker": "VZ.US",
+  "fiscal_year": 2022,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "'Intelligent Edge Network' branding, no AI",
+  "annotator": "human"
+ },
+ "0000732712-25-000006": {
+  "ticker": "VZ.US",
+  "fiscal_year": 2024,
+  "ai_mention": "present",
+  "ai_substance": "boilerplate_risk_only",
+  "notes": "'increasing use of AI' as tech-response risk",
+  "annotator": "human"
+ },
+ "0001437107-17-000007": {
+  "ticker": "WBD.US",
+  "fiscal_year": 2016,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (Discovery 2016)",
+  "annotator": "human"
+ },
+ "0000104169-15-000011": {
+  "ticker": "WMT.US",
+  "fiscal_year": 2015,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (Walmart 2015)",
+  "annotator": "human"
+ },
+ "0000950170-22-001962": {
+  "ticker": "WU.US",
+  "fiscal_year": 2021,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "unclear/ambiguous hit only",
+  "annotator": "human"
+ },
+ "0001174922-15-000021": {
+  "ticker": "WYNN.US",
+  "fiscal_year": 2014,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "no keywords (WRL 2014)",
+  "annotator": "human"
+ },
+ "0001770450-24-000012": {
+  "ticker": "XRX.US",
+  "fiscal_year": 2023,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "'intelligent workflow' branding only",
+  "annotator": "human"
+ },
+ "0001524472-18-000006": {
+  "ticker": "XYL.US",
+  "fiscal_year": 2017,
+  "ai_mention": "none",
+  "ai_substance": "",
+  "notes": "smart lighting only, no AI claim",
+  "annotator": "human"
+ },
+ "0001628280-22-003825": {
+  "ticker": "XYZ.US",
+  "fiscal_year": 2021,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "Square Assistant AI + data analytics platform",
+  "annotator": "human"
+ },
+ "0001564590-20-007403": {
+  "ticker": "YUMC.US",
+  "fiscal_year": 2019,
+  "ai_mention": "present",
+  "ai_substance": "operational_mention",
+  "notes": "Smile-to-Pay facial recognition + loyalty data analytics",
+  "annotator": "human"
+ }
+}

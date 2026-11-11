@@ -1,0 +1,10 @@
+step,firms,firm_years
+S&P 500 constituents in window (EODHD PIT list),759,
+Sample tickers,759,
+  with EODHD annual financials,749,
+  with index membership >= 30 days,707,
+  with firm-years FY2015-2024,699,6447.0
+  one ticker per issuer (dual share classes removed),693,6397.0
+  with at least one 10-K on EDGAR,680,6313.0
+  firm-years matched to an original 10-K,679,6091.0
+  firm-years with complete core variables,678,6084.0

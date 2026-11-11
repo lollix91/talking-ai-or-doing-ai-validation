@@ -1,0 +1,11 @@
+requests==2.32.3
+pandas==2.2.3
+pyarrow>=21.0.0
+python-dotenv==1.0.1
+tqdm==4.66.5
+scipy
+scikit-learn
+statsmodels==0.14.6
+linearmodels==6.1
+matplotlib==3.9.2
+seaborn==0.13.2
